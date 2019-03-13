@@ -1,0 +1,11 @@
+D:\c#\Methods\Methods\bin\Debug\Methods.dll
+D:\c#\Methods\Methods\bin\Debug\Methods.pdb
+D:\c#\Methods\Methods\obj\Debug\Methods.dll
+D:\c#\Methods\Methods\obj\Debug\Methods.pdb
+D:\c#\Methods\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+D:\універ\3 курс\1 семестр\Остудін\Methods\Methods\bin\Debug\Methods.dll
+D:\універ\3 курс\1 семестр\Остудін\Methods\Methods\bin\Debug\Methods.pdb
+D:\універ\3 курс\1 семестр\Остудін\Methods\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+D:\універ\3 курс\1 семестр\Остудін\Methods\Methods\obj\Debug\Methods.dll
+D:\універ\3 курс\1 семестр\Остудін\Methods\Methods\obj\Debug\Methods.pdb
+D:\універ\3 курс\1 семестр\Остудін\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache

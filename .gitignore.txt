@@ -1,0 +1,3 @@
+Methods.sln,
+Methods.v11,
+.vs
